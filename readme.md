@@ -1,3 +1,7 @@
+# Translation Automate
+
+It shows how you can automate Translations of your text, json data, text files and many more using aws bedrock.
+
 ```markdown
 # Translations Using Python and AWS Bedrock
 
