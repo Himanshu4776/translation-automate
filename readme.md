@@ -21,6 +21,8 @@ Before running these script, make sure you have the following prerequisites in p
    pip install boto3 requests
    ```
 
+## Working Video: https://youtu.be/U8IDQbQC2a4
+
 ## Usage
 
 1. Replace `access_key` and `secret_key` with your AWS Access Key ID and Secret Access Key.
